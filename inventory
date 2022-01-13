@@ -1,0 +1,16 @@
+[lab]
+alex-jumphost ansible_host=35.212.101.10
+bob-jumphost ansible_host=35.212.1.186
+chip-jumphost ansible_host=35.212.124.254
+dave-jumphost ansible_host=35.212.9.195
+dominick-jumphost ansible_host=35.212.30.135
+eric-jumphost ansible_host=35.212.101.187
+grezgorz-jumphost ansible_host=35.212.127.43
+ionnis-jumphost ansible_host=35.212.101.51
+konrad-jumphost ansible_host=35.212.105.28
+lukaszk-jumphost ansible_host=35.212.121.99
+lukaszs-jumphost ansible_host=35.212.60.157
+michaelh-jumphost ansible_host=35.212.4.35
+miker-jumphost ansible_host=35.212.58.35
+tige-jumphost ansible_host=35.212.142.10
+tom-jumphost ansible_host=35.212.45.146
